@@ -1,3 +1,4 @@
+load();
 function load()
 {
 cont.innerHTML = "chargement en cours";
