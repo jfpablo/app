@@ -1,2 +1,2 @@
 cont.innerHTML = "chargement en cours";
-body.background = "#086cef";
+body.style.background = "#086cef";
