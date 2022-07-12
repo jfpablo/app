@@ -9,6 +9,6 @@ cont.innerHTML = "chargement en cours";
 }
 function loaded()
 {
-cont.innerHTML = "AMT CARE CENTER<p>accueil</p>";
+cont.innerHTML = "AMT CARE CENTER";
   body.style.background = "white";
 }
