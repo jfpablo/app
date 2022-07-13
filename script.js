@@ -9,5 +9,6 @@
     {
       document.querySelector("#chargement").style.display = "none";
       document.querySelector("body").style.visibility = "visible";
+     alert('Ceci est une alerte !');
     }
   };
