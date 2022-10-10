@@ -9,6 +9,6 @@
     {
       document.querySelector("#chargement").style.display = "none";
       document.querySelector("body").style.visibility = "visible";
-     alert('Ceci est une alerte !');
+     alert('cette app est en cours de mise à jour');
     }
   };
